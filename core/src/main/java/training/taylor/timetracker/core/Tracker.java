@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 import training.taylor.timetracker.core.dao.TimeEntry;
 
 import java.util.List;
-
+//Testing poll SCM option
 @Component
 public class Tracker {
     @Autowired
