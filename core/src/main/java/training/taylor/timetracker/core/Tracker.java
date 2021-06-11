@@ -6,6 +6,7 @@ import training.taylor.timetracker.core.dao.TimeEntry;
 
 import java.util.List;
 //Testing poll SCM option
+//Tesing Maven Project option
 @Component
 public class Tracker {
     @Autowired
